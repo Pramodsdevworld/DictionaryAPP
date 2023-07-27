@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Dictionary</string>
+    <string name="settings">Settings</string>
+    <string name="exit">Exit</string>
+    <string name="dictionary">Dictionary</string>
+    <string name="some_text">Some Text</string>
+    <string name="words_you_searched_most_recently_show_up_here">most recently show up here</string>
+    <string name="some_txt">Some Text</string>
+    <string name="words_you_searched_most_nrecently_show_up_here">Words you searched most\nrecently show up here...</string>
+    <string name="demo">demo</string>
+
+</resources>
